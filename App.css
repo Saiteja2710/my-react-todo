@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  
+}
+
+body{
+  background-color: rgb(246, 79, 1);
+}
+
+.inp{
+  width :50%;   /* width of the input box */
+}
+
+.btn{
+  background-color: rgb(5, 118, 5);
+  color:white;
+}
+
+.para{
+  height: auto;
+  width: 45vw;
+  background-color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+.bt{
+  background-color: rgb(226, 50, 50);
+
+}
+.div{
+  display: flex;
+  justify-content: center;
+
+}
+
+.del{
+  margin-left: auto;
+  background-color: red;
+  color: aliceblue;
+}
